@@ -1,2 +1,0 @@
-# vr
-Just a test
